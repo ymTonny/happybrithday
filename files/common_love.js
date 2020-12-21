@@ -1,5 +1,5 @@
-// ﻿document.write("<script src='/templates/common/jquery.min.js'></script>");
-// document.write("<script src='/templates/common/clipboard.min.js'></script>");
+﻿document.write("<script src='/templates/common/jquery.min.js'></script>");
+document.write("<script src='/templates/common/clipboard.min.js'></script>");
 
   
 
